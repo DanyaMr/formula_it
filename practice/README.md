@@ -2,7 +2,8 @@
 
 <img width="1286" height="1020" alt="telegram-cloud-photo-size-2-5239972827291655731-w" src="https://github.com/user-attachments/assets/a10fb294-01de-4859-8607-a2b150e543ae" />
 <img width="1268" height="902" alt="telegram-cloud-photo-size-2-5239972827291655732-y" src="https://github.com/user-attachments/assets/782f8f2e-9cc7-4a95-9816-e22531d44460" />
-<img width="1260" height="856" alt="telegram-cloud-photo-size-2-5239972827291655733-y" src="https://github.com/user-attachments/assets/5978c22d-865e-4e78-8217-712ecd5feac2" />
+<img width="640" height="480" alt="Fig" src="https://github.com/user-attachments/assets/0ac4a7ab-0c83-43cb-8239-ee1d19669d41" />
+
 
 # Задача №2
 
